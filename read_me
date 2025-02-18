@@ -1,0 +1,4 @@
+O projeto foi feito totalmente em ipynb
+as instalações necessárias incluem bibliotecas básicas como pandas, seaborn e matplotlib.
+Ao criar uma relação entre as tabelas agregadas de escola e alunos houve um erro de memória. O que limitou a análise para o último ano disponível 2023
+Já nas análises segregadas por educandos e escolas os dados foram carregados sem maiores problemas.
